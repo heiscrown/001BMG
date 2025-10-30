@@ -1,0 +1,6 @@
+[user]
+	name = 001BMG
+	email = hshcancerassociation@protonmail.com
+	signingkey = F302CAB06D59AE2D
+[commit]
+	gpgsign = false
